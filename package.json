@@ -1,6 +1,6 @@
 {
   "name": "c-pictures",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Compress the image resources in your project",
   "type": "module",
   "main": "index.js",
@@ -9,6 +9,10 @@
   },
   "bin": {
     "c-pics": "./bin/compress.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LENSENM/c-pistures"
   },
   "keywords": [
     "compress",
